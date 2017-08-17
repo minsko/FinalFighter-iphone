@@ -1,6 +1,6 @@
 
 #import <GameKit/GameKit.h>
-#import <cocos2d.h>
+#import "cocos2d.h"
 #import "GameCenterManager.h"
 
 @class GameCenterManager;

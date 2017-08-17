@@ -1,5 +1,5 @@
 
-#import <cocos2d.h>
+#import "cocos2d.h"
 
 @class MenuLayer;
 @class GameMenuItemImage;
